@@ -2,9 +2,14 @@
 
 **This repository is a *Work In Progress* one and this will be a guide to all the Explainable AI enthusiasts. This repository will provide some good Reveiw Papers, Journal articles, tools and many more for the begineers, for intermediates and for the pros as well.**
 
+![image](https://github.com/RushenSamodya/A-Guide-To-Explainable-AI-Enthusiasts/assets/114132773/f562bc6a-9703-49fd-9339-5ea371478df2)
+
 Explainable AI(XAI) has emerged having the aim of making AI systems more transparent and comprehensible to human beings and it has become one of the hot topic which is having gradually increasing searches in Google and Platforms like google scholar and most of the researches have focused their attention on this feild.
 
 The major problems in current AI tools are they are so advanced that they are not even close to being interpretable. Most of the results produced by them are hidden. Even the desighners of these systems do not know how the results were carried out by the system and explainable AI was born as a result to that.
+
+  ![image](https://github.com/RushenSamodya/A-Guide-To-Explainable-AI-Enthusiasts/assets/114132773/3f088594-a921-4b86-ae4b-5daf24d6d7c9)
+
 
 --- 
 
@@ -26,7 +31,7 @@ The major problems in current AI tools are they are so advanced that they are no
 
 --- 
 
-## Joural Articles
+## Journal Articles
 
 [Randomized Input Sampling forExplanation of Black-box Models](https://arxiv.org/pdf/1806.07421.pdf)
 
