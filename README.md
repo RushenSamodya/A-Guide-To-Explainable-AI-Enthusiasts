@@ -24,22 +24,38 @@ The major problems in current AI tools are they are so advanced that they are no
 
 [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 
-[title](https://www.example.com)
-
-
 --- 
 
 ## Joural Articles
 
-[title](https://www.example.com)
+[Randomized Input Sampling forExplanation of Black-box Models](https://arxiv.org/pdf/1806.07421.pdf)
+
+[Anchors: High-Precision Model-Agnostic Explanations](https://ojs.aaai.org/index.php/aaai/article/view/11491)
+
+[Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103?casa_token=4neUzV9O7lUAAAAA:dQjGSGDeMTjfQfSqRpa2dI8wiqN4iBrvcuwISBhQ3ojN4m9TheforJM_I-mLs017WOEDSptyAg85)
+
 
 --- 
 
 ## You Tube Videos
 
+![image](https://github.com/RushenSamodya/A-Guide-To-Explainable-AI-Enthusiasts/assets/114132773/8775d627-a699-47ee-bece-948d0ae18fff)
+
 [Explainable AI Explained By Deepfindr](https://youtube.com/playlist?list=PLV8yxwGOxvvovp-j6ztxhF3QcKXT6vORU)
 
-[title](https://www.example.com)
+![image](https://github.com/RushenSamodya/A-Guide-To-Explainable-AI-Enthusiasts/assets/114132773/23875309-d685-43db-bfc3-653a5cff75be)
+
+[Explainable AI for Science and Medicine By Microsoft Research](https://youtu.be/B-c8tIgchu0)
+
+![image](https://github.com/RushenSamodya/A-Guide-To-Explainable-AI-Enthusiasts/assets/114132773/68cc0e37-cd80-49c8-86f5-95618d5b3643)
+
+[Introduction to Explainable AI (ML Tech Talks) By Tensorflow](https://youtu.be/6xePkn3-LME)
+
+![image](https://github.com/RushenSamodya/A-Guide-To-Explainable-AI-Enthusiasts/assets/114132773/03f96523-3387-47f0-9e6f-ccfd33211987)
+
+[What is Explainable AI? By IBM Technologies](https://youtu.be/jFHPEQi55Ko)
+
+
 
 
 
