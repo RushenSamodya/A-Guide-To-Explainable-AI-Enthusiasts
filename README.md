@@ -17,3 +17,30 @@ The major problems in current AI tools are they are so advanced that they are no
 [A historical perspective of explainable Artificial Intelligence](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1391)
 
 [Opportunities and Challenges in Explainable Artificial Intelligence](https://arxiv.org/pdf/2006.11371.pdf)
+
+[Explainable artificial intelligence: a comprehensive review](https://link.springer.com/article/10.1007/s10462-021-10088-y)
+
+[Metrics for Explainable AI: Challenges and Prospects](https://arxiv.org/ftp/arxiv/papers/1812/1812.04608.pdf)
+
+[Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
+
+[title](https://www.example.com)
+
+
+--- 
+
+## Joural Articles
+
+[title](https://www.example.com)
+
+--- 
+
+## You Tube Videos
+
+[Explainable AI Explained By Deepfindr](https://youtube.com/playlist?list=PLV8yxwGOxvvovp-j6ztxhF3QcKXT6vORU)
+
+[title](https://www.example.com)
+
+
+
+
