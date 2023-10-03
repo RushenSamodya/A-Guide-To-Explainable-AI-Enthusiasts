@@ -1,6 +1,6 @@
 # A-Guide-To-Explainable-AI-Enthusiasts
 
-**This repository is a *Work In Progress* one and this will be a guide to all the Explainable AI enthusiasts. This repository will provide some good Reveiw Papers, Journal articles, tools and many more for the begineers, for intermediates and for the pros as well.**
+**This is a *Work In Progress* repository and this will be a guide to all the Explainable AI enthusiasts. This repository will provide some good Reveiw Papers, Journal articles, tools and many more for the begineers, for intermediates and for the pros as well.**
 
 ![image](https://github.com/RushenSamodya/A-Guide-To-Explainable-AI-Enthusiasts/assets/114132773/f562bc6a-9703-49fd-9339-5ea371478df2)
 
