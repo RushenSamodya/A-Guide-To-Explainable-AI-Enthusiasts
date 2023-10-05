@@ -1,4 +1,4 @@
-## This section will provide information about the particular artcle
+## This section will provide a brief about the particular artcle
 
 ## Review Papers
 
