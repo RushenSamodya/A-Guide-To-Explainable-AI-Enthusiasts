@@ -29,6 +29,9 @@ The major problems in current AI tools are they are so advanced that they are no
 
 [7. Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 
+[8. Explanation and Justification in Machine Learning: A Survey ](http://www.cs.columbia.edu/~orb/papers/xai_survey_paper_2017.pdf)
+
+
 --- 
 
 ## Journal Articles
@@ -38,6 +41,8 @@ The major problems in current AI tools are they are so advanced that they are no
 [2. Anchors: High-Precision Model-Agnostic Explanations](https://ojs.aaai.org/index.php/aaai/article/view/11491)
 
 [3. Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103?casa_token=4neUzV9O7lUAAAAA:dQjGSGDeMTjfQfSqRpa2dI8wiqN4iBrvcuwISBhQ3ojN4m9TheforJM_I-mLs017WOEDSptyAg85)
+
+[4. Explanation in artificial intelligence: Insights from the social sciences](https://www.sciencedirect.com/science/article/pii/S0004370218305988)
 
 
 --- 
