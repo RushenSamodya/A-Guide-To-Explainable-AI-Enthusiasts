@@ -15,29 +15,29 @@ The major problems in current AI tools are they are so advanced that they are no
 
 ## Review Papers
 
-[Explainable artificial intelligence: An analytical review ](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1424)
+[1. Explainable artificial intelligence: An analytical review ](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1424)
 
-[Explainable Artificial Intelligence: a Systematic Review](https://www.example.com](https://arxiv.org/pdf/2006.00093.pdf)https://arxiv.org/pdf/2006.00093.pdf)
+[2. Explainable Artificial Intelligence: a Systematic Review](https://www.example.com](https://arxiv.org/pdf/2006.00093.pdf)https://arxiv.org/pdf/2006.00093.pdf)
 
-[A historical perspective of explainable Artificial Intelligence](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1391)
+[3. A historical perspective of explainable Artificial Intelligence](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1391)
 
-[Opportunities and Challenges in Explainable Artificial Intelligence](https://arxiv.org/pdf/2006.11371.pdf)
+[4. Opportunities and Challenges in Explainable Artificial Intelligence](https://arxiv.org/pdf/2006.11371.pdf)
 
-[Explainable artificial intelligence: a comprehensive review](https://link.springer.com/article/10.1007/s10462-021-10088-y)
+[5. Explainable artificial intelligence: a comprehensive review](https://link.springer.com/article/10.1007/s10462-021-10088-y)
 
-[Metrics for Explainable AI: Challenges and Prospects](https://arxiv.org/ftp/arxiv/papers/1812/1812.04608.pdf)
+[6. Metrics for Explainable AI: Challenges and Prospects](https://arxiv.org/ftp/arxiv/papers/1812/1812.04608.pdf)
 
-[Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
+[7. Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/pdf/1702.08608.pdf)
 
 --- 
 
 ## Journal Articles
 
-[Randomized Input Sampling forExplanation of Black-box Models](https://arxiv.org/pdf/1806.07421.pdf)
+[1. Randomized Input Sampling forExplanation of Black-box Models](https://arxiv.org/pdf/1806.07421.pdf)
 
-[Anchors: High-Precision Model-Agnostic Explanations](https://ojs.aaai.org/index.php/aaai/article/view/11491)
+[2. Anchors: High-Precision Model-Agnostic Explanations](https://ojs.aaai.org/index.php/aaai/article/view/11491)
 
-[Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103?casa_token=4neUzV9O7lUAAAAA:dQjGSGDeMTjfQfSqRpa2dI8wiqN4iBrvcuwISBhQ3ojN4m9TheforJM_I-mLs017WOEDSptyAg85)
+[3. Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103?casa_token=4neUzV9O7lUAAAAA:dQjGSGDeMTjfQfSqRpa2dI8wiqN4iBrvcuwISBhQ3ojN4m9TheforJM_I-mLs017WOEDSptyAg85)
 
 
 --- 
